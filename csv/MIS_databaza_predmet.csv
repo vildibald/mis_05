@@ -1,0 +1,11 @@
+id;nazov;fakulta;ustav;odporucany_rocnik;kredity;pocet_hodin
+1;Fizika 1;PF;UFV;1;6;4
+2;Matematika 1;PF;UMV;1;5;5
+3;Matematika 2;PF;UMV;2;5;5
+4;Jakyk C;PF;UINF;3;2;2
+5;PAZ1a;PF;UINF;1;7;7
+6;PAZ1B;PF;UINF;1;8;7
+7;PAZ1C;PF;UINF;2;6;6
+8;KKV;PF;UINF;4;5;5
+9;Diskretna matematika;PF;UMV;3;5;5
+10;MIS;PF;UINF;2;4;4
